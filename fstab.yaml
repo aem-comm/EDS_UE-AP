@@ -1,8 +1,7 @@
 mountpoints:
   /:
-    url: "https://author-p145177-e1493246.adobeaemcloud.com/bin/franklin.delivery/aem-comm/EDS_UE-AP/main"
+    url: "https://main--EDS_UE-AP--aem-comm.hlx.page"
     type: "markup"
     suffix: ".html"
 folders:
   /products/: /products/default
-  
