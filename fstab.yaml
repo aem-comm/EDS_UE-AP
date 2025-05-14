@@ -3,3 +3,5 @@ mountpoints:
     url: "https://author-p131516-e1281364.adobeaemcloud.com/bin/franklin.delivery/aem-comm/EDS_UE-AP/main"
     type: "markup"
     suffix: ".html"
+folders:
+  /blocks/: /blocks
