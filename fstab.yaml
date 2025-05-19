@@ -4,4 +4,4 @@ mountpoints:
     type: "markup"
     suffix: ".html"
 folders:
-  /blocks/: /blocks
+  /products/: /products
